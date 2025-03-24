@@ -1,0 +1,10 @@
+{
+  "icon": "terminal.svg",
+  "ui": {
+    "dashboard-tab": {
+      "title": "Log Follower",
+      "src": "index.html",
+      "root": "ui"
+    }
+  }
+}
