@@ -1,4 +1,4 @@
-IMAGE?=edwinat/loglens
+IMAGE?=binginsin/log-follower
 TAG?=2.0.1
 
 BUILDER=buildx-multi-arch

@@ -1,5 +1,5 @@
 {
-  "icon": "terminal.svg",
+  "icon": "loglens.svg",
   "ui": {
     "dashboard-tab": {
       "title": "Log Follower",
